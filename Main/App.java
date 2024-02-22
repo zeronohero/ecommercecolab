@@ -1,5 +1,5 @@
 package Main;
-import java.util.Scanner
+import java.util.Scanner;
 /**
  * App
  */
